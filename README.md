@@ -18,7 +18,7 @@ To get a local copy up and running, follow these simple steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/teshank2137/portfolio.git
+git clone https://github.com/siddhantaryan09/Myportfolio.git
 
 # Navigate to the project directory
 cd portfolio
