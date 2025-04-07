@@ -49,36 +49,35 @@ export const About = () => {
       <Page header="About">
         <Text>
           <Paragraph>
-            I'm a passionate programmer, who is always looking for new
-            challenges to improve myself, also a team player, who is always
-            ready to learn new things and help others.
-            <br />I was born and raised in Nagpur, India. I love to play guitar
-            and ukulele and in my free time I like to read books, watch movies
-            and play video games.
+          I'm a passionate programmer who thrives on challenges and continuous improvement.
+          A strong team player, I'm always eager to learn new technologies and help others grow alongside me.
+            <br />Born and raised in Bihar, India, I have a deep interest in emerging Web3 technologies.
+             Outside of coding, you'll find me enjoying a game of chess or cricket, and exploring new places — traveling always inspires and refreshes my mind.
+
           </Paragraph>
           <Educations>
             <AboutItem
               color={blue}
               active
               data={{
-                title: "D.Y. Patil college of engineering, Pune",
-                p: "Bachelors of Computer Engineering (2019-2023)",
+                title: "Chandigarh University, Mohali",
+                p: "Bachelors of Engineering (2021-2025)",
                 image: dyp,
               }}
             />
             <AboutItem
               color={green}
               data={{
-                title: "M.P. Deo D. Science College, Nagpur",
-                p: "High School (2017-2019)",
+                title: "K.P College Murliganj",
+                p: "Intermdiate of science (2018-2020)",
                 image: highschool,
               }}
             />
             <AboutItem
               color={yellow}
               data={{
-                title: "School of Scholars, Nagpur",
-                p: "Secondary Education (2007-2017)",
+                title: "Rajnandan Pd H/s Murliganj",
+                p: "Matriculation(2016-2018)",
                 image: sos,
               }}
             />
